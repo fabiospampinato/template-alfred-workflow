@@ -7,7 +7,7 @@ A template for starting a new Alfred workflow quickly.
 Install the template locally with:
 
 ```
-$ template install fabiospampinato/template-alfred-workflow alfred-workflow
+template install fabiospampinato/template-alfred-workflow alfred-workflow
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ $ template install fabiospampinato/template-alfred-workflow alfred-workflow
 Create a new Alfred workflow with:
 
 ```
-$ template create alfred-workflow my-alfred-workflow
+template create alfred-workflow my-alfred-workflow
 ```
 
 ## License
